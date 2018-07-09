@@ -34,7 +34,12 @@
             padding-top: (36rem/34);
             >a {
                 color: #aeaeae;
-                >span:first-of-type {}
+                >span:first-of-type {
+                    font-size: 50px;
+                }
+                >P {
+                    margin-top: 10px;
+                }
             }
         }
     }

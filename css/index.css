@@ -150,4 +150,12 @@ a {
 .favourable .special > .add > a {
   color: #aeaeae;
 }
+
+.favourable .special > .add > a > span:first-of-type {
+  font-size: 50px;
+}
+
+.favourable .special > .add > a > P {
+  margin-top: 10px;
+}
 /*# sourceMappingURL=index.css.map */
